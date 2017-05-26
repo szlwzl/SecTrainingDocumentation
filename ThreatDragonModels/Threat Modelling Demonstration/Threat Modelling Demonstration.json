@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Modelling Demonstration",
+    "owner": "Me",
+    "description": "Demonstrating a threat model being built"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "You"
+  }
+}
